@@ -13,7 +13,7 @@ The acquirer (Dell Technologies) and the target (F5, Inc.) were assigned by the 
 
 ## Workflow: AI Drafts, Humans Review
 
-**LLMs used:** ChatGPT (OpenAI), Claude (Anthropic), and Gemini (Google).
+**LLMs used:** ChatGPT (OpenAI), Gemini (Google), and Claude (Anthropic).
 
 | Stage | Done by | What it involved |
 |---|---|---|
@@ -22,23 +22,23 @@ The acquirer (Dell Technologies) and the target (F5, Inc.) were assigned by the 
 | Reasonableness checks | Team | Testing assumptions and outputs: premium baseline, synergy sizing vs. F5's cost base, leverage limits, consistency of figures across both documents |
 | Reporting | Team | Final edits and presentation of results |
 
-One example of a correction made during review: the first version computed the control premium off F5's post-incident share price (~$296), which was depressed by the October 2025 cyber incident. After instructor feedback, the offer was re-anchored to the **undisturbed pre-incident price (~$343)**, and the offer price, synergy figures, and price ceiling were updated consistently across the report and the pitch book.
+One example of a correction made during review: the first version computed the control premium off F5's post-incident share price (\~$296), which was depressed by the October 2025 cyber incident. After instructor feedback, the offer was re-anchored to the **undisturbed pre-incident price (\~$343)**, and the offer price, synergy figures, and price ceiling were updated consistently across the report and the pitch book.
 
 ## Deal Summary
 
 | Item | Result |
 |---|---|
-| Recommended offer | **$445 / share** (30% premium to undisturbed price; ~50% to current price) |
-| Implied equity value | ~$25.9B |
+| Recommended offer | **$445 / share** (30% premium to undisturbed price; \~50% to current price) |
+| Implied equity value | \~$25.9B |
 | DCF standalone value | $384.16 / share (WACC 9.04%, terminal growth 2.5%, SBC added back) |
-| Net synergy NPV | $4.5B ($200M/yr cost + $150M/yr revenue, after ~$1.0B integration costs) |
+| Net synergy NPV | $4.5B ($200M/yr cost + $150M/yr revenue, after \~$1.0B integration costs) |
 | Max non-destructive price | $461.48 / share (standalone equity + synergy NPV) |
-| Consideration | 40% cash/debt (~$10.4B) / 60% Dell stock (~$15.5B), to keep leverage below 2.0x and preserve Dell's BBB+ rating |
+| Consideration | 40% cash/debt (\~$10.4B) / 60% Dell stock (\~$15.5B), to keep leverage below 2.0x and preserve Dell's BBB+ rating |
 | Key risk | October 2025 cyber incident liabilities — addressed via indemnification and escrow |
 
 ## Methods
 
-- **Market sizing:** ADC + WAAP + multi-cloud networking, with a 15% overlap adjustment → ~$16B net 2026 TAM
+- **Market sizing:** ADC + WAAP + multi-cloud networking, with a 15% overlap adjustment → \~$16B net 2026 TAM
 - **Valuation:** trading comparables, precedent transactions (HPE–Juniper as the main benchmark), and a 5-year unlevered DCF
 - **Sensitivity analysis:** implied share price across WACC (8.04%–10.04%) and terminal growth (1.5%–3.5%)
 - **Synergy analysis:** SG&A rationalization, supply chain savings, and cross-selling into Dell's ISG channel
